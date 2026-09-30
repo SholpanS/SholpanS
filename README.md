@@ -61,7 +61,7 @@ In the future, I plan to expand my knowledge toward Data Science and Machine Lea
 
 ## 📫 Connect with me
 
-- LinkedIn:[https://www.linkedin.com/in/sholpan-syrgabayeva-23651237b/?isSelfProfile=true]
+- LinkedIn:[https://www.linkedin.com/in/sholpan-syrgabayeva-23651237b]
 - Email:[ssyrgabayeva@gmail.com]
 
 ---
