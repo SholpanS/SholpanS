@@ -38,21 +38,8 @@ Now I am combining my engineering background with modern data analytics skills t
 
 ## 🛠️ Skills
 
-### Data Analytics
-- SQL
-- Python
-- Excel
-- Power BI
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Basic Statistics
-
 ### Tools
 - Microsoft Excel
-- Power BI
-- SQL Server Management Studio
-- Git & GitHub
 - SAP
 - SharePoint
 
